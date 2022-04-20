@@ -8,3 +8,5 @@ In contrast to other mapping frameworks MapStruct generates bean mappings at com
 ## How?
 MapStruct is an annotation processor which is plugged into the Java compiler and can be used in command-line builds (Maven, Gradle etc.) as well as from within your preferred IDE.
 MapStruct uses sensible defaults but steps out of your way when it comes to configuring or implementing special behavior.
+## What is inside?
+The project presents the most commonly used cases of mapping.
